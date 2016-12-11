@@ -1,2 +1,4 @@
-# animacaes_baseadas_em_scroll_usando_jQuery_e_CSS3
-Scrolling animations using jQuery and CSS3
+# animacões baseadas em scroll usando jQuery e CSS3
+
+Tutorial:
+<a href="https://www.sitepoint.com/scroll-based-animations-jquery-css3/">Projeto Original</a>
